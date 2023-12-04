@@ -23,6 +23,6 @@ def train_model(data):
     accuracy = model.score(X_test, y_test)
     print(f"Model Accuracy: {accuracy:.2f}")
     print("---------------------")
-    return model
+    return model, labels
 
 

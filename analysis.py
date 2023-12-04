@@ -16,9 +16,9 @@ def analyse_data(data):
     minLength = min(messageLengths)
     maxLength = max(messageLengths)
     print("Mean message length is", meanLength, "characters long")
-    print("Median message length is", medianLength,"characrers long")
+    print("Median message length is", medianLength,"characters long")
     print("Maximum message length is", maxLength, "characters long")
-    print("Minimum message length is", minLength,"characrers long")
+    print("Minimum message length is", minLength,"characters long")
    
     # Calculating and outputting statistics for number of words
     meanWords = statistics.mean(wordcounts)
