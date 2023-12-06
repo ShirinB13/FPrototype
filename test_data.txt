@@ -1,0 +1,10 @@
+[1/1/2023, 12:00:00] Chatbot: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[1/1/2023, 12:00:01] Chatbot: ‎You created group “Test Group”
+[1/1/2023, 12:01:00] TestUser1: Hi! I need advice on choosing a gift for my sister. Any suggestions?
+[1/1/2023, 12:01:30] Chatbot: Hello, TestUser1! Of course, I'd be happy to help. Could you share some interests or hobbies your sister has?
+[1/1/2023, 12:02:00] TestUser1: She's into painting and hiking.
+[1/1/2023, 12:02:30] Chatbot: Excellent! How about an art set or a portable hiking gear? Any preferences?
+[1/1/2023, 12:03:00] TestUser1: An art set sounds perfect. Can you recommend a specific brand or type?
+[1/1/2023, 12:03:30] Chatbot: Certainly! Consider brands like Winsor & Newton or Liquitex for art sets. They offer quality supplies.
+[1/1/2023, 12:04:00] TestUser1: Thanks, Chatbot! I appreciate your help. What about a gift for a music enthusiast?
+[1/1/2023, 12:04:30] Chatbot: For a music lover, a good Bluetooth speaker or concert tickets could be great options. Any preferences in mind?

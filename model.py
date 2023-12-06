@@ -24,5 +24,3 @@ def train_model(data):
     print(f"Model Accuracy: {accuracy:.2f}")
     print("---------------------")
     return model, labels
-
-
