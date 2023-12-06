@@ -33,5 +33,4 @@ class TestModel(unittest.TestCase):
         # Ensure accuracy is greater than or equal to 0.5
         self.assertGreaterEqual(accuracy, 0.5) 
 
-
 # run test with: python -m unittest test_model.py
