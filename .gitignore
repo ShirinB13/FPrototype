@@ -1,5 +1,5 @@
 dist/
 build/
-__pyache__
+__pyache__/
 .DS_Store
 dist.zip
